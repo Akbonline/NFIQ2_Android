@@ -1,0 +1,18 @@
+# ninja log v5
+0	5	0	clean	b1f50d035a8e74d3
+3	1281	1630008228	CMakeFiles/aug12_2.dir/native-lib.cpp.o	cf35679cedf6c5e0
+1281	1359	1630008228	/home/cid/AndroidStudioProjects/aug24/app/build/intermediates/cxx/Debug/3m6g3v6y/obj/arm64-v8a/libaug12_2.so	5fda2cc8b3354099
+1	1337	1630008344	CMakeFiles/aug12_2.dir/native-lib.cpp.o	cf35679cedf6c5e0
+1337	1417	1630008344	/home/cid/AndroidStudioProjects/aug24/app/build/intermediates/cxx/Debug/3m6g3v6y/obj/arm64-v8a/libaug12_2.so	5fda2cc8b3354099
+10	1232	1630012650	CMakeFiles/aug12_2.dir/native-lib.cpp.o	cf35679cedf6c5e0
+1232	1301	1630012650	/home/cid/AndroidStudioProjects/aug24/app/build/intermediates/cxx/Debug/3m6g3v6y/obj/arm64-v8a/libaug12_2.so	5fda2cc8b3354099
+2	1254	1630013673	CMakeFiles/aug12_2.dir/native-lib.cpp.o	cf35679cedf6c5e0
+1254	1339	1630013673	/home/cid/AndroidStudioProjects/aug24/app/build/intermediates/cxx/Debug/3m6g3v6y/obj/arm64-v8a/libaug12_2.so	5fda2cc8b3354099
+1	1096	1630013704	CMakeFiles/aug12_2.dir/native-lib.cpp.o	cf35679cedf6c5e0
+1096	1150	1630013704	/home/cid/AndroidStudioProjects/aug24/app/build/intermediates/cxx/Debug/3m6g3v6y/obj/arm64-v8a/libaug12_2.so	5fda2cc8b3354099
+2	1106	1630014153	CMakeFiles/aug12_2.dir/native-lib.cpp.o	cf35679cedf6c5e0
+1106	1172	1630014153	/home/cid/AndroidStudioProjects/aug24/app/build/intermediates/cxx/Debug/3m6g3v6y/obj/arm64-v8a/libaug12_2.so	5fda2cc8b3354099
+1	1277	1630015047	CMakeFiles/aug12_2.dir/native-lib.cpp.o	cf35679cedf6c5e0
+1277	1359	1630015047	/home/cid/AndroidStudioProjects/aug24/app/build/intermediates/cxx/Debug/3m6g3v6y/obj/arm64-v8a/libaug12_2.so	5fda2cc8b3354099
+2	1243	1630016218	CMakeFiles/aug12_2.dir/native-lib.cpp.o	cf35679cedf6c5e0
+1243	1307	1630016218	/home/cid/AndroidStudioProjects/aug24/app/build/intermediates/cxx/Debug/3m6g3v6y/obj/arm64-v8a/libaug12_2.so	5fda2cc8b3354099

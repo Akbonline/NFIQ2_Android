@@ -1,0 +1,24 @@
+                    Executable : /home/cid/Android/Sdk/cmake/3.10.2.4988404/bin/cmake
+arguments : 
+-H/home/cid/Desktop/NFIQ2_android_2-master/app/src/main/cpp
+-DCMAKE_SYSTEM_NAME=Android
+-DCMAKE_EXPORT_COMPILE_COMMANDS=ON
+-DCMAKE_SYSTEM_VERSION=23
+-DANDROID_ABI=arm64-v8a
+-DCMAKE_ANDROID_ARCH_ABI=arm64-v8a
+-DANDROID_NDK=/home/cid/Android/Sdk/ndk/21.4.7075529
+-DCMAKE_ANDROID_NDK=/home/cid/Android/Sdk/ndk/21.4.7075529
+-DCMAKE_TOOLCHAIN_FILE=/home/cid/Android/Sdk/ndk/21.4.7075529/build/cmake/android.toolchain.cmake
+-DCMAKE_MAKE_PROGRAM=/home/cid/Android/Sdk/cmake/3.10.2.4988404/bin/ninja
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=/home/cid/Desktop/NFIQ2_android_2-master/app/build/intermediates/cxx/Debug/2f10494g/obj/arm64-v8a
+-DCMAKE_RUNTIME_OUTPUT_DIRECTORY=/home/cid/Desktop/NFIQ2_android_2-master/app/build/intermediates/cxx/Debug/2f10494g/obj/arm64-v8a
+-DCMAKE_BUILD_TYPE=Debug
+-B/home/cid/Desktop/NFIQ2_android_2-master/app/.cxx/Debug/2f10494g/arm64-v8a
+-GNinja
+-DANDROID_PLATFORM=android-14
+-DANDROID_TOOLCHAIN=clang
+jvmArgs : 
+
+
+                    Build command args: []
+                    Version: 2

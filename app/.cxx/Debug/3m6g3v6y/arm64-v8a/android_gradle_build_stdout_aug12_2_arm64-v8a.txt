@@ -1,0 +1,24 @@
+ninja: Entering directory `/home/cid/AndroidStudioProjects/aug24/app/.cxx/Debug/3m6g3v6y/arm64-v8a'
+[1/2] Building CXX object CMakeFiles/aug12_2.dir/native-lib.cpp.o
+/home/cid/AndroidStudioProjects/aug24/app/src/main/cpp/native-lib.cpp:90:58: warning: format specifies type 'int' but the argument has type 'std::__ndk1::vector<std::__ndk1::shared_ptr<NFIQ2::QualityFeatures::Module>, std::__ndk1::allocator<std::__ndk1::shared_ptr<NFIQ2::QualityFeatures::Module> > >::size_type' (aka 'unsigned long') [-Wformat]
+            ALOG("Native-Lib: Value inside modules %d.", modules.size());
+                                                   ~~    ^~~~~~~~~~~~~~
+                                                   %lu
+/home/cid/AndroidStudioProjects/aug24/app/src/main/cpp/native-lib.cpp:18:66: note: expanded from macro 'ALOG'
+#define  ALOG(...)  __android_log_print(ANDROID_LOG_INFO,LOG_TAG,__VA_ARGS__)
+                                                                 ^~~~~~~~~~~
+/home/cid/AndroidStudioProjects/aug24/app/src/main/cpp/native-lib.cpp:138:1: warning: control may reach end of non-void function [-Wreturn-type]
+}
+^
+/home/cid/AndroidStudioProjects/aug24/app/src/main/cpp/native-lib.cpp:179:89: warning: format specifies type 'int' but the argument has type 'size_t' (aka 'unsigned long') [-Wformat]
+        __android_log_print(ANDROID_LOG_DEBUG, "Native Audio", "Asset file size: %d\n", assetLength);
+                                                                                 ~~     ^~~~~~~~~~~
+                                                                                 %zu
+/home/cid/AndroidStudioProjects/aug24/app/src/main/cpp/native-lib.cpp:198:1: warning: control may reach end of non-void function [-Wreturn-type]
+}
+^
+/home/cid/AndroidStudioProjects/aug24/app/src/main/cpp/native-lib.cpp:209:80: warning: data argument not used by format string [-Wformat-extra-args]
+    __android_log_print(ANDROID_LOG_INFO, "Set Configuration:", "Path value =",yourpath);
+                                                                ~~~~~~~~~~~~~~ ^
+5 warnings generated.
+[2/2] Linking CXX shared library /home/cid/AndroidStudioProjects/aug24/app/build/intermediates/cxx/Debug/3m6g3v6y/obj/arm64-v8a/libaug12_2.so

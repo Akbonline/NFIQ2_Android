@@ -1,0 +1,34 @@
+Blah Blah Blah!
+
+public final class FileHelper {
+    private FileHelper() {
+    }
+
+    public static byte[] loadFile(String path) throws IOException {
+        return loadFile(new File(path));
+    }
+
+    public static byte[] loadFile(File file) throws IOException {
+        byte[] dataBuffer = null;
+        FileInputStream inStream = null;
+
+        byte[] dataBuffer;
+        try {
+            int length = (int)file.length();
+            dataBuffer = new byte[length];
+            inStream = new FileInputStream(file);
+            int offset = 0;
+            int readBytes = false;
+
+            int readBytes;
+            for(boolean readMore = true; readMore; readMore = readBytes > 0 && offset != length) {
+                readBytes = inStream.read(dataBuffer, offset, length - offset);
+                offset += readBytes;
+            }
+        } finally {
+            try {
+                if (inStream != null) {
+                    inStream.close();
+                }
+            } catch (IOException var12) {
+                System.o

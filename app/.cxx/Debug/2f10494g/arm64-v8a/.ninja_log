@@ -1,0 +1,21 @@
+# ninja log v5
+0	817	1629762755	CMakeFiles/aug12_2.dir/native-lib.cpp.o	9552f31256b194d7
+818	847	1629762755	/home/cid/Desktop/NFIQ2_android_2-master/app/build/intermediates/cxx/Debug/2f10494g/obj/arm64-v8a/libaug12_2.so	6c0eff3a200bc4ac
+0	754	1629830415	CMakeFiles/aug12_2.dir/native-lib.cpp.o	9552f31256b194d7
+754	799	1629830415	/home/cid/Desktop/NFIQ2_android_2-master/app/build/intermediates/cxx/Debug/2f10494g/obj/arm64-v8a/libaug12_2.so	6c0eff3a200bc4ac
+1	693	1629830440	CMakeFiles/aug12_2.dir/native-lib.cpp.o	9552f31256b194d7
+694	714	1629830441	/home/cid/Desktop/NFIQ2_android_2-master/app/build/intermediates/cxx/Debug/2f10494g/obj/arm64-v8a/libaug12_2.so	6c0eff3a200bc4ac
+1	763	1629830502	CMakeFiles/aug12_2.dir/native-lib.cpp.o	9552f31256b194d7
+763	783	1629830502	/home/cid/Desktop/NFIQ2_android_2-master/app/build/intermediates/cxx/Debug/2f10494g/obj/arm64-v8a/libaug12_2.so	6c0eff3a200bc4ac
+1	817	1629830538	CMakeFiles/aug12_2.dir/native-lib.cpp.o	9552f31256b194d7
+817	849	1629830538	/home/cid/Desktop/NFIQ2_android_2-master/app/build/intermediates/cxx/Debug/2f10494g/obj/arm64-v8a/libaug12_2.so	6c0eff3a200bc4ac
+1	698	1629830726	CMakeFiles/aug12_2.dir/native-lib.cpp.o	9552f31256b194d7
+698	720	1629830727	/home/cid/Desktop/NFIQ2_android_2-master/app/build/intermediates/cxx/Debug/2f10494g/obj/arm64-v8a/libaug12_2.so	6c0eff3a200bc4ac
+1	762	1629831267	CMakeFiles/aug12_2.dir/native-lib.cpp.o	9552f31256b194d7
+762	785	1629831267	/home/cid/Desktop/NFIQ2_android_2-master/app/build/intermediates/cxx/Debug/2f10494g/obj/arm64-v8a/libaug12_2.so	6c0eff3a200bc4ac
+15	1258	1629832495	CMakeFiles/aug12_2.dir/native-lib.cpp.o	9552f31256b194d7
+1258	1319	1629832495	/home/cid/Desktop/NFIQ2_android_2-master/app/build/intermediates/cxx/Debug/2f10494g/obj/arm64-v8a/libaug12_2.so	6c0eff3a200bc4ac
+1	1174	1629833584	CMakeFiles/aug12_2.dir/native-lib.cpp.o	9552f31256b194d7
+1174	1234	1629833584	/home/cid/Desktop/NFIQ2_android_2-master/app/build/intermediates/cxx/Debug/2f10494g/obj/arm64-v8a/libaug12_2.so	6c0eff3a200bc4ac
+1	1172	1629834125	CMakeFiles/aug12_2.dir/native-lib.cpp.o	9552f31256b194d7
+1172	1216	1629834125	/home/cid/Desktop/NFIQ2_android_2-master/app/build/intermediates/cxx/Debug/2f10494g/obj/arm64-v8a/libaug12_2.so	6c0eff3a200bc4ac

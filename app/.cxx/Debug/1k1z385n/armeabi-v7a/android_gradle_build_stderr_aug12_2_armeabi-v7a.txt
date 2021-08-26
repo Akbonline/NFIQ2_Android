@@ -1,0 +1,1 @@
+ninja: error: '/home/cid/AndroidStudioProjects/aug12_2/distribution/nfiq2api/lib/armeabi-v7a/libNfiq2Api.so', needed by '/home/cid/AndroidStudioProjects/aug12_2/app/build/intermediates/cxx/Debug/1k1z385n/obj/armeabi-v7a/libaug12_2.so', missing and no known rule to make it

@@ -1,0 +1,1 @@
+ninja: Entering directory `/home/cid/AndroidStudioProjects/aug12_2/app/.cxx/Debug/1k1z385n/armeabi-v7a'

@@ -1,0 +1,2 @@
+ninja: Entering directory `/home/cid/Desktop/NFIQ2_android_2-master/app/.cxx/Debug/2f10494g/arm64-v8a'
+ninja: no work to do.
